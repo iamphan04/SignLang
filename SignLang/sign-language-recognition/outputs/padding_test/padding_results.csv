@@ -1,0 +1,19 @@
+﻿panel_id,label,audit_status,original_status,padded_status,original_hands,padded_hands,original_width,original_height,padded_width,padded_height,pad_x_each_side,pad_y_each_side,original_detail,padded_detail,source_image
+1,T,ok,ok,ok,1,1,2000,2000,3000,3000,500,500,,,T/T_4.jpg
+2,T,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,T/hand4_t_bot_seg_3_cropped.jpeg
+3,T,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,T/hand5_t_dif_seg_1_cropped.jpeg
+4,0,ok,ok,ok,1,1,400,400,600,600,100,100,,,0/hand2_0_top_seg_5_cropped.jpeg
+5,0,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,0/hand3_0_dif_seg_3_cropped.jpeg
+6,0,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,0/hand1_0_top_seg_1_cropped.jpeg
+7,M,ok,ok,ok,1,1,2000,2000,3000,3000,500,500,,,M/M (15).jpg
+8,M,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,M/hand4_m_bot_seg_4_cropped.jpeg
+9,M,no_hand,no_hand,no_hand,0,0,400,400,600,600,100,100,,,M/hand5_m_dif_seg_1_cropped.jpeg
+10,N,ok,ok,ok,1,1,2000,2000,3000,3000,500,500,,,N/N (15).jpg
+11,N,no_hand,no_hand,no_hand,0,0,400,400,600,600,100,100,,,N/hand4_n_bot_seg_4_cropped.jpeg
+12,N,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,N/hand5_n_dif_seg_1_cropped.jpeg
+13,J,ok,ok,ok,1,1,400,400,600,600,100,100,,,J/hand4_j_bot_seg_4_cropped.jpeg
+14,J,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,J/hand2_j_top_seg_4_cropped.jpeg
+15,J,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,J/hand3_j_dif_seg_5_cropped.jpeg
+16,A,ok,ok,ok,1,1,400,400,600,600,100,100,,,A/hand2_a_top_seg_2_cropped.jpeg
+17,A,no_hand,no_hand,ok,0,1,1836,3264,2754,4896,459,816,,,A/IMG_20210605_174833.jpg
+18,A,no_hand,no_hand,ok,0,1,400,400,600,600,100,100,,,A/hand1_a_dif_seg_1_cropped.jpeg

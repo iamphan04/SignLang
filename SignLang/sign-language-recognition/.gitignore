@@ -1,0 +1,35 @@
+﻿# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# VS Code and IDE files
+.vscode/
+.idea/
+
+# Windows and system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Original dataset and downloaded archives
+data/raw/
+*.zip
+*.rar
+*.7z
+
+# Temporary local predictions
+outputs/prediction/
+outputs/run_status.json
+
+# Logs
+*.log
+
+# Older reference results
+reference_run/

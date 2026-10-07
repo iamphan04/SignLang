@@ -1,0 +1,25 @@
+﻿preview_file,panel_id,row,column,label,status,source_image
+review_01.png,1,0,0,T,ok,T/T_4.jpg
+review_01.png,2,0,1,T,no_hand,T/hand4_t_bot_seg_3_cropped.jpeg
+review_01.png,3,0,2,T,no_hand,T/hand5_t_dif_seg_1_cropped.jpeg
+review_01.png,4,1,0,0,ok,0/hand2_0_top_seg_5_cropped.jpeg
+review_01.png,5,1,1,0,no_hand,0/hand3_0_dif_seg_3_cropped.jpeg
+review_01.png,6,1,2,0,no_hand,0/hand1_0_top_seg_1_cropped.jpeg
+review_01.png,7,2,0,M,ok,M/M (15).jpg
+review_01.png,8,2,1,M,no_hand,M/hand4_m_bot_seg_4_cropped.jpeg
+review_01.png,9,2,2,M,no_hand,M/hand5_m_dif_seg_1_cropped.jpeg
+review_02.png,10,0,0,N,ok,N/N (15).jpg
+review_02.png,11,0,1,N,no_hand,N/hand4_n_bot_seg_4_cropped.jpeg
+review_02.png,12,0,2,N,no_hand,N/hand5_n_dif_seg_1_cropped.jpeg
+review_02.png,13,1,0,J,ok,J/hand4_j_bot_seg_4_cropped.jpeg
+review_02.png,14,1,1,J,no_hand,J/hand2_j_top_seg_4_cropped.jpeg
+review_02.png,15,1,2,J,no_hand,J/hand3_j_dif_seg_5_cropped.jpeg
+review_02.png,16,2,0,A,ok,A/hand2_a_top_seg_2_cropped.jpeg
+review_02.png,17,2,1,A,no_hand,A/IMG_20210605_174833.jpg
+review_02.png,18,2,2,A,no_hand,A/hand1_a_dif_seg_1_cropped.jpeg
+review_multiple_hands.png,19,0,0,A,multiple_hands,A/IMG20210607183140.jpg
+review_multiple_hands.png,20,0,1,D,multiple_hands,D/IMG20210607183243.jpg
+review_multiple_hands.png,21,0,2,G,multiple_hands,G/IMG20210607183511.jpg
+review_multiple_hands.png,22,1,0,A,multiple_hands,A/IMG20210607183141.jpg
+review_multiple_hands.png,23,1,1,D,multiple_hands,D/IMG20210607183246.jpg
+review_multiple_hands.png,24,1,2,T,multiple_hands,T/IMG20210607184054.jpg

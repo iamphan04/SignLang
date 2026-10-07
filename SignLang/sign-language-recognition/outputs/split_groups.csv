@@ -1,0 +1,13 @@
+split,source_group,images,classes
+test,hand5,336,36
+test,photo_IMG_counter,96,26
+test,photo_IMG_date,72,21
+train,hand1,809,36
+train,hand2,876,36
+train,photo_IMG_date_underscore,190,26
+train,photo_date,102,26
+train,photo_letter_parentheses,311,26
+train,photo_uuid,99,26
+validation,hand3,180,36
+validation,hand4,172,36
+validation,photo_letter_underscore,155,26

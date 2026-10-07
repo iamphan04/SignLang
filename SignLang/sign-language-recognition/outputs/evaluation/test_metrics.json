@@ -1,0 +1,26 @@
+{
+  "model": "LogisticRegression",
+  "test_images": 504,
+  "test_metrics": {
+    "accuracy": 0.7757936507936508,
+    "macro_precision": 0.7908041486265339,
+    "macro_recall": 0.7836844210618721,
+    "macro_f1": 0.7672371096711472,
+    "weighted_precision": 0.8056934945234456,
+    "weighted_recall": 0.7757936507936508,
+    "weighted_f1": 0.7714501012284264
+  },
+  "model_sha256": "127d9e9af63c2bedc5cac37491aa2d6372040dad11e86f978d307d481ea78156",
+  "test_csv_sha256": "fff77fad4c46ca6e42861d4d3ce5e8258d607e99c16536927c8eaa17709b985e",
+  "accepted_images": 3402,
+  "original_images": 3607,
+  "extraction_coverage": 0.9431660659828112,
+  "scope": "Classifier performance on accepted, cleaned static-image features; not webcam accuracy.",
+  "split_limitations": [
+    "Photo filename families are source proxies; verified signer IDs are not available for all images.",
+    "No overlap of the defined groups does not prove complete signer independence.",
+    "Image hashes detect exact decoded-image duplicates, not every near-duplicate.",
+    "The split covers accepted single-hand features; report extraction coverage separately from classifier accuracy.",
+    "Exploratory preprocessing used dataset samples before this split; a new independent capture is needed for an untouched external evaluation."
+  ]
+}

@@ -1,0 +1,5 @@
+source_image,label,feature_row,exclusion_reason,duplicate_of
+F/hand2_f_right_seg_5_cropped.jpeg,F,1258,hand_selection_needs_review,
+G/IMG20210607183510.jpg,G,1397,hand_selection_needs_review,
+G/IMG20210607183511.jpg,G,1398,hand_selection_needs_review,
+K/D4DC81A1-6F2D-4580-9397-1133620483CA.jpg,K,1724,exact_image_duplicate,K/C38DA062-E355-4DCB-8A22-893D3CD99039.jpg
